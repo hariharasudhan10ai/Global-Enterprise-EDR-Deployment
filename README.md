@@ -82,7 +82,7 @@ Microsoft Defender for Endpoint • CrowdStrike Falcon • Microsoft Sentinel �
 |---------|-------|
 | Endpoints | 50,000+ |
 | Deployment Success | 100% |
-| Deployment Timeline | 6 Months |
+| Deployment Timeline | 6-18 Months |
 | Operating Systems | Windows, Linux, macOS |
 
 ---
